@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="1000" alt="image" src="https://github.com/caido-training/.github/blob/main/content/banner.png?raw=true">
+  <img width="1000" alt="image" src="https://github.com/caido-training/.github/blob/main/content/banner_rounded.png?raw=true">
 
   <br />
   <br />
